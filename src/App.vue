@@ -12,7 +12,6 @@ export default {
 
 <style>
 #app {
-    background-color: #f0f0f0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }

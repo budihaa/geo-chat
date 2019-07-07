@@ -12,7 +12,7 @@
                                     <i class="material-icons prefix">account_circle</i>
                                     <input id="name" type="text" class="validate" v-model="name" />
                                     <label for="name">Enter your name</label>
-                                    <span v-if="warning" class="helper-text" :data-error="warning"></span>
+                                    <span v-if="warning" class="helper-text red-text">{{ warning }}</span>
                                 </div>
                             </div>
                         </div>
