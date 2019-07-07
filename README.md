@@ -1,6 +1,6 @@
 # geo-chat
 
-> Chat app based on geolocation
+> Chat app based on geolocation. This app is my learning journey to mastering VueJS
 
 ## Build Setup
 
